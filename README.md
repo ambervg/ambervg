@@ -15,8 +15,15 @@
   <img src="https://komarev.com/ghpvc/?username=ambervgname&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
+## Projects
+Unfortunately, most of my coding projects are private, so they are not visible at my profile here. Still, here is a quick overview of some highlights.
+- 🍺 **Heineken:** Autonomous anomaly (e.g. air leakage) detection in the brewery environment using BD's Spot robot
+- 🚙 **Bachelor Thesis:** Predicting lane-changing behavior of cars using Inverse Reinforcement Learning
+- 🧠 **Athena Research:**  Developmental Interpretability of DNN's for vision
+- 🤖 **Master Thesis:** Investigating Theory of Mind in embodied Large Language Models
+
+
 <!---
-## Introduction
 I am a robotics student from the Netherlands.
  - :robot: 
 - 👋 Hi, I’m @ambervg
