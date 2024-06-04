@@ -9,6 +9,9 @@
   <a href="https://medium.com/@groenestijnamber">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="https://open.spotify.com/show/09QnMz3jupBNoHcOYuQNIA">
+    <img src="https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
 </div>
 
 <div id="profileviewcounter" align="center">
