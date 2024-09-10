@@ -19,11 +19,12 @@
 </div>
 
 ## Projects
-Unfortunately, most of my coding projects are private, so they are not visible at my profile here. Still, here is a quick overview of some highlights.
+Unfortunately, not all of my coding projects are public, so they are not visible at my profile here. Still, here is a quick overview of some highlights.
 - 🍺 **Heineken:** Autonomous anomaly (e.g. air leakage) detection in the brewery environment using BD's Spot robot
 - 🚙 **Bachelor Thesis:** Predicting lane-changing behavior of cars using Inverse Reinforcement Learning
-- 🧠 **Athena Research:**  Developmental Interpretability of DNN's for vision
+- 🧠 **Athena Research:**  Developmental Interpretability of DNN's for vision ([public repo](https://github.com/ambervg/devinterp-vision))
 - 🤖 **Master Thesis:** Investigating Theory of Mind in embodied Large Language Models
+- 🎨 **Project Oscillon:** Doing the web-dev for a Robotics & Art competition ([public repo](https://github.com/ambervg/oscillon))
 
 
 <!---
